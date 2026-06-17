@@ -4,7 +4,7 @@
 嘿嘿，这是跟随一个课程做的
 
 ```html
-<p>hello world</p>
+<p>hello github</p>
 ```
 
 你需要注意以下几点：
